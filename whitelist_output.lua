@@ -5,6 +5,8 @@ while Players.LocalPlayer == nil do task.wait() end
 
 local PLAYER = Players.LocalPlayer
 
+if not script_key then script_key = "" end
+
 for count = 0, 9 do
     if string.find(script_key, tostring(count)) then
         StarterGui:SetCore("SendNotification", {
