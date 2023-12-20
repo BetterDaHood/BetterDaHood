@@ -1,17 +1,19 @@
-"data": [
-  [
-    "Game 1",
-    "Description for Game 1",
-    "1.0"
-  ],
-  [
-    "Game 2",
-    "Description for Game 2",
-    "2.5"
-  ],
-  [
-    "Game 3",
-    "Description for Game 3",
-    "3.2"
+{
+  "data": [
+    {
+      "Title": "Game 1",
+      "Description": "Description for Game 1",
+      "GameVersion": "1.0"
+    },
+    {
+      "Title": "Game 2",
+      "Description": "Description for Game 2",
+      "GameVersion": "2.5"
+    },
+    {
+      "Title": "Game 3",
+      "Description": "Description for Game 3",
+      "GameVersion": "3.2"
+    }
   ]
-]
+}
