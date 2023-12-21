@@ -1,18 +1,19 @@
 {
   "data": [
     {
-      "Title": "Game 1",
-      "Description": "Description for Game 1",
+      "Title": "Update 1",
+      "Description": "Interesting description for update 1, this update is very good and has lots of new features and bug fixes,
+which can be listed here conveniently for you.",
       "GameVersion": "1.0"
     },
     {
-      "Title": "Game 2",
-      "Description": "Description for Game 2",
+      "Title": "Update 2",
+      "Description": "Short description for update 2",
       "GameVersion": "2.5"
     },
     {
-      "Title": "Game 3",
-      "Description": "Description for Game 3",
+      "Title": "Update 3",
+      "Description": "Cool description for update 3",
       "GameVersion": "3.2"
     }
   ]
