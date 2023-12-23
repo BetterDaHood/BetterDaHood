@@ -1,11 +1,6 @@
 {
   "data": [
     {
-      "Title": "aaaaaaaaaaaaaa",
-      "Description": "Interesting description for update 1, this update is very good and has lots of new features and bug fixes, which can be listed here conveniently for you.",
-      "GameVersion": "V1.0"
-    },
-    {
       "Title": "Money Update",
       "Description": "Interesting description for update 1, this update is very good and has lots of new features and bug fixes, which can be listed here conveniently for you.",
       "GameVersion": "V1.0"
