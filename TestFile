@@ -1,6 +1,11 @@
 {
   "data": [
     {
+      "Title": "Christmas",
+      "Description": "A pretty cool update, we improved many things and modified a lot!",
+      "GameVersion": "V1.58"
+    },
+    {
       "Title": "Brand New Update",
       "Description": "A brand new shiny update",
       "GameVersion": "V1.1"
